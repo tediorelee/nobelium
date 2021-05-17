@@ -83,7 +83,7 @@ class MyDocument extends Document {
             </>
           )}
 
-          <link rel="icon" href="/favicon.ico" />
+          <link rel="icon" href="/avatar.png" />
           <link rel="icon" href="/favicon.svg" type="image/svg+xml"></link>
           {BLOG.analytics && BLOG.analytics.provider === 'ackee' && (
             <script
