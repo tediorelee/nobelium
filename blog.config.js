@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  title: '𝒯𝐸𝒟𝐼𝒪𝑅𝐸𝐿𝐸𝐸',
+  author: 'Xiang Li',
+  email: 'tediorelee@qq.com',
+  link: 'https://blog.leejieun.fan',
+  description: 'ʏᴏᴜ\'ʀᴇ ᴊᴜꜱᴛ ᴀ ꜱᴀᴅ ꜱᴏɴɢ ᴡɪᴛʜ ɴᴏᴛʜɪɴɢ ᴛᴏ ꜱᴀʏ',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -16,7 +16,7 @@ const BLOG = {
   showAbout: true, // WIP
   showArchive: true, // WIP
   autoCollapsedNavBar: false, // the automatically collapsed navigation bar
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/tediore1ee',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
